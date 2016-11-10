@@ -14,6 +14,11 @@ Version 8.11 (Unreleased)
 - Allow user to resend email verification to primary email address.
 - Added additional detail to subscription help text when viewing a group.
 
+SDKs
+~~~~
+
+- The `repos` interface has been added.
+
 Schema Changes
 ~~~~~~~~~~~~~~
 
