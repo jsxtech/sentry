@@ -165,7 +165,7 @@
   "devDependencies": {
     "@babel/plugin-transform-react-jsx-source": "^7.16.7",
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.7",
-    "@size-limit/preset-small-lib": "^5.0.5",
+    "@size-limit/preset-small-lib": "^8.0.0",
     "@storybook/addon-a11y": "6.5.9",
     "@storybook/addon-actions": "6.5.9",
     "@storybook/addon-docs": "6.5.9",
@@ -199,7 +199,7 @@
     "postcss-syntax": "0.36.2",
     "react-refresh": "0.13.0",
     "react-test-renderer": "17.0.2",
-    "size-limit": "^5.0.5",
+    "size-limit": "^8.0.0",
     "storybook-dark-mode": "^1.1.0",
     "stylelint": "14.8.2",
     "stylelint-config-prettier": "^9.0.3",
