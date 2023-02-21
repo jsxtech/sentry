@@ -2357,10 +2357,10 @@
   dependencies:
     "@react-types/shared" "^3.16.0"
 
-"@sentry-internal/global-search@^0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@sentry-internal/global-search/-/global-search-0.4.1.tgz#807be09697d35ede0d08a05107cd23621f4b3f25"
-  integrity sha512-gwtTphouVNhmCOZeM3HaHbJnvcIQ4JiDmA9bJMZW42EAb0S5Hn0AVrf8gORCDiGKQd8MmYzvYPZ3FC04ZySvdQ==
+"@sentry-internal/global-search@^0.5.5":
+  version "0.5.5"
+  resolved "https://registry.yarnpkg.com/@sentry-internal/global-search/-/global-search-0.5.5.tgz#3da67aef2cf13039b7061b7c86bfc3102501061b"
+  integrity sha512-V3epx1LY/td9Q6VaQhNrp6jrKd3A6lR9F6f4I7axx98WS+paU2hS9ycoktA4rJQVjnXhv9aIFlGUF0w9k6mAFw==
   dependencies:
     "@types/react" ">=16"
     "@types/react-dom" ">=16"
